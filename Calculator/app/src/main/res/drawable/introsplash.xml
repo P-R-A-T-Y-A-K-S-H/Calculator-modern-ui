@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/white"/>
+
+    <item>
+        <bitmap android:gravity="center" android:src="@mipmap/ic_calculator"/>
+    </item>
+
+    <item android:bottom = "-590dp">
+    <bitmap android:gravity="center" android:src="@drawable/fucku01"/>
+    </item>
+
+
+</layer-list>
